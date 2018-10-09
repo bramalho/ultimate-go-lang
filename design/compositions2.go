@@ -5,7 +5,7 @@
 // something we want to do in Go. We will group common types by
 // their behavior and not by their state. This pattern does
 // provide a good design principle in a Go program.
-package design
+package main
 
 import "fmt"
 
