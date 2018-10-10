@@ -5,7 +5,7 @@
 
 // Sample program to show how to create race conditions in
 // our programs. We don't want to do this.
-package data_race
+package main
 
 import (
 	"fmt"
