@@ -86,3 +86,5 @@ func main() {
 	wg.Add(1)
 	wg.Wait()
 }
+
+//GOMAXPROCS=1 .//interface_race_condition
